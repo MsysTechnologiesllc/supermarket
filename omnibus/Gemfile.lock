@@ -166,7 +166,7 @@ GEM
       faraday (~> 1.0)
     fauxhai-ng (9.0.0)
       net-ssh
-    ffi (1.15.3)
+    ffi (1.15.4)
     ffi-libarchive (1.0.17)
       ffi (~> 1.0)
     ffi-yajl (2.4.0)
@@ -207,7 +207,7 @@ GEM
     ipaddress (0.8.3)
     jmespath (1.4.0)
     json (2.5.1)
-    kitchen-vagrant (1.9.0)
+    kitchen-vagrant (1.11.0)
       test-kitchen (>= 1.4, < 4)
     libyajl2 (2.1.0)
     license-acceptance (2.1.13)
@@ -231,7 +231,7 @@ GEM
     mixlib-cli (2.1.8)
     mixlib-config (3.0.9)
       tomlrb
-    mixlib-install (3.12.11)
+    mixlib-install (3.12.16)
       mixlib-shellout
       mixlib-versioning
       thor
@@ -384,7 +384,7 @@ GEM
       pastel (~> 0.8)
       strings (~> 0.2.0)
       tty-screen (~> 0.8)
-    unicode-display_width (2.0.0)
+    unicode-display_width (2.1.0)
     unicode_utils (1.4.0)
     uuidtools (2.2.0)
     webrick (1.7.0)
